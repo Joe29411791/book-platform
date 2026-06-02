@@ -124,5 +124,103 @@ export const books = [
     author: "Benjamin Graham",
     cover: "cover_17.png",
     description: "投資界的聖經。對新手來說較難懂且年代久遠，建議在讀完其他書籍後再以歷史眼光重新審視。"
+  },
+  {
+    id: 19,
+    title: "人月神話 (The Mythical Man-Month)",
+    author: "Frederick P. Brooks Jr.",
+    cover: "cover_19.png",
+    description: "軟體工程與專案管理的聖經。被作者譽為「真理」，是參與專案越深越能體會其偉大的神作 [00:09:26]。"
+  },
+  {
+    id: 20,
+    title: "Just for Fun",
+    author: "Linus Torvalds, David Diamond",
+    cover: "cover_20.png",
+    description: "Linux 創始人 Linus Torvalds 的自傳，從中可窺見 Linux 作業系統背後的設計風格與藝術哲學 [00:00:23]。"
+  },
+  {
+    id: 21,
+    title: "Code: The Hidden Language of Computer Hardware and Software",
+    author: "Charles Petzold",
+    cover: "cover_21.png",
+    description: "以說故事的方式帶你從燈泡、繼電器一路了解計算機軟硬體的演化歷史，深入淺出，毫無枯燥的技術術語 [00:00:53]。"
+  },
+  {
+    id: 22,
+    title: "圖靈的秘密 (The Annotated Turing)",
+    author: "Charles Petzold",
+    cover: "cover_22.png",
+    description: "將圖靈的生平故事與其 1930 年代奠定計算機科學基礎的經典論文交織在一起，逐句解析，引人入勝 [00:02:22]。"
+  },
+  {
+    id: 23,
+    title: "The Art of UNIX Programming",
+    author: "Eric S. Raymond",
+    cover: "cover_23.png",
+    description: "儘管部分內容具備時代侷限性，但書中探討的 UNIX 設計哲學與理念，至今仍深刻影響著包含 Linux 在內的現代系統設計 [00:04:39]。"
+  },
+  {
+    id: 24,
+    title: "軟體設計的哲學 (A Philosophy of Software Design)",
+    author: "John Ousterhout",
+    cover: "cover_24.png",
+    description: "篇幅極薄但非常具體。直擊現代軟體設計的痛點，探討隱藏的結構複雜度是如何導致系統難以維護，並教導如何理順「亂麻」 [00:06:12]。"
+  },
+  {
+    id: 25,
+    title: "跨越鴻溝 (Crossing the Chasm)",
+    author: "Geoffrey A. Moore",
+    cover: "cover_25.png",
+    description: "產品經理的聖經。幫助不想只寫程式的開發者，系統性理解一項產品如何跨越市場障礙並取得成功 [00:08:45]。"
+  },
+  {
+    id: 26,
+    title: "平台革命 (Platform Revolution)",
+    author: "Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary",
+    cover: "cover_26.png",
+    description: "開發平台類系統（如 B2C、B2B）的實戰教科書。詳盡解說網路效應、系統架構、監管與取代競爭對手的具體細節 [00:10:09]。"
+  },
+  {
+    id: 27,
+    title: "採購與供應鏈管理：一個實踐者的角度 (紅寶書)",
+    author: "劉寶紅",
+    cover: "cover_27.png",
+    description: "雖然背景是高端製造業與供應鏈，但其背後的管理與實踐思維，完全可以無縫套用在軟體工程與網際網路行業中 [00:13:21]。"
+  },
+  {
+    id: 28,
+    title: "編譯原理 (Compilers) [龍書]",
+    author: "Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman",
+    cover: "cover_28.png",
+    description: "特定場景工具書。建議在工作需要極致最佳化或必須深刻理解底層儲存、查詢原理時再深入閱讀 [00:16:50]。"
+  },
+  {
+    id: 29,
+    title: "獲利世代 (Business Model Generation)",
+    author: "Alexander Osterwalder, Yves Pigneur",
+    cover: "cover_29.png",
+    description: "提供實用的商業模式畫布，幫助釐清產品的客群、通路、價值主張與成本結構，避免做出「空中樓閣」的產品 [00:18:49]。"
+  },
+  {
+    id: 30,
+    title: "精實創業 (The Lean Startup)",
+    author: "Eric Ries",
+    cover: "cover_30.png",
+    description: "經典的新創產品指南。系統性闡述如何快速迭代、推出新產品並驗證市場，適合新創領域開發者 [00:22:16]。"
+  },
+  {
+    id: 31,
+    title: "設計心理學 (The Design of Everyday Things)",
+    author: "Don Norman",
+    cover: "cover_31.png",
+    description: "訓練開發者「從使用者視角倒推」的設計思維。探討如何在一開始就做出合理的設計，而非事後用彈跳視窗或提示框來補救 [00:24:26]。"
+  },
+  {
+    id: 32,
+    title: "編程珠璣 (Programming Pearls)",
+    author: "Jon Bentley",
+    cover: "cover_32.png",
+    description: "適合不為面試刷題、純粹想鍛鍊腦力並體會經典程式邏輯之美的開發者，是一本歷久彌新的智力題庫 [00:27:55]。"
   }
 ];
