@@ -5,7 +5,7 @@
       <h1 >Book Route </h1>
 
       <nav>
-        <p @click="goMap">地圖清單</p>
+        <p @click="goMap">閱讀路徑清單</p>
         <p @click="goMyBooks">書籍蒐藏</p>
         
         <input class="search" placeholder="輸入書名">

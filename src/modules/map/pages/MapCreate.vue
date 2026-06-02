@@ -1,19 +1,19 @@
 <template>
   <div>
 
-    <h1>建立閱讀地圖</h1>
+    <h1>建立閱讀路徑圖</h1>
 
     <div>
       <label>主題名稱</label>
 
       <input
         v-model="title"
-        placeholder="例如：財務自由"
+        placeholder=""
       >
     </div>
 
     <div>
-      <label>地圖簡介</label>
+      <label>路徑圖簡介</label>
 
       <textarea
         v-model="description"

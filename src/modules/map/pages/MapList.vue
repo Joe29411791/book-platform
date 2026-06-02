@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h1>閱讀地圖</h1>
+    <h1>閱讀路徑圖</h1>
     <button @click="goCreate">
-      建立地圖
+      建立路徑圖
     </button>
 
     <div
